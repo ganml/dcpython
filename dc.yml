@@ -1,0 +1,14 @@
+name: dc
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - cython
+  - python
+  - pytorch
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - ucimlrepo
+  - spyder
