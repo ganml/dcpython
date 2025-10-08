@@ -1,5 +1,5 @@
 # dcpython
-Python code for the book Data Clustering with Python: From Theory to Implementation
+Python code for the book Data Clustering with Python: From Theory to Implementation. This work was supported by the Makuch Faculty Fund of the Department of Mathematics at the University of Connecticut. The authors gratefully acknowledge this support.
 
 If you write research articles and want to cite this software, please use the following citation:
 ```
